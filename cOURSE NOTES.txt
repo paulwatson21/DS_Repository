@@ -1,0 +1,22 @@
+The most widely used open source data management tools are relational databases such as
+MySQL and PostgreSQL; NoSQL databases such as MongoDB Apache CouchDB, and Apache Cassandra;
+and file-based tools such as the Hadoop File System or Cloud File systems like Ceph.
+Finally,Elasticsearch is mainly used for storing text data and creating a search index for
+fast document retrieval.
+
+Here are the most widely used open source data integration and transformation tools:
+Apache AirFlow, originally created by AirBNB; KubeFlow, which enables you to execute data
+science pipelines on top of Kubernetes; Apache Kafka, which originated from LinkedIn;
+Apache Nifi, which delivers a very nice visual editor;
+Apache SparkSQL (which enables you to use ANSI SQL and scales up to compute clusters
+of 1000s of nodes), and NodeRED, which also provides a visual editor.
+NodeRED consumes so little in resources that it even runs on small devices like a Raspberry
+Pi.
+We’ll now introduce the most widely used open source data visualization tools.
+We have to distinguish between programming libraries where you need to use code and tools
+that contain a user interface.
+The most popular libraries are covered in the next videos.
+A similar approach uses Hue, which can create visualizations from SQL queries.
+Kibana, a data exploration and visualization web application, is limited to Elasticsearch
+(the data provider).
+Finally, Apache Superset is a data exploration and visualization web application.
